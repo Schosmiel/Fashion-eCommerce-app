@@ -2,7 +2,7 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91388754/232251489-b98c66f3-3baa-41db-a0d5-984799db45a4.png)
 
 ## Tutorial Video on Youtube:
-* [YOUTUBE](https://youtu.be/OQLEKRPIiXwt)
+* [LINKEDIN](https://www.linkedin.com/in/richard-gadjenou/)
 
 ## This link allows you to support me, and I really appreciate your help:
 * [SUPPORT](https://www.buymeacoffee.com/AmirBayat)
@@ -17,11 +17,10 @@
 ![Screenshot (507)](https://user-images.githubusercontent.com/91388754/214787047-024ee0d5-9af8-41b7-8a72-b303e37e8bad.png)
 ![Screenshot (508)](https://user-images.githubusercontent.com/91388754/214787067-e83aa9fc-1920-497b-be16-84391695e6dc.png)
 ## My Socials:
-* [INSTAGRAM](https://www.instagram.com/codewithflexz)
-* [YOUTUBE]( https://www.youtube.com/c/ProgrammingWithFlexZ)
-* [GITHUB](https://github.com/AmirBayat0)
-* [CONTACT ME](https://amirbayat.dev@gmail.com)
-* [FIND MORE](https://znap.link/CodeWithFlexz)
+* [LINKEDIN](https://www.linkedin.com/in/richard-gadjenou/)
+* [GITHUB](https://github.com/Schosmiel)
+* [CONTACT ME](https://schosmeil@gmail.com)
+
 
  
 
